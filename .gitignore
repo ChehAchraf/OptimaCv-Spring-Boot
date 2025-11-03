@@ -1,0 +1,60 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+releaseArguments.properties
+.repository/
+.flattened-pom.xml
+.mvn/
+!/.mvn/wrapper
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.lock
+*.hprof
+*.jfc
+*.idx
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+.vscode/
+
+# Build artifacts
+build/
+bin/
+out/
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Spring Boot
+*.bak
+*.tmp
+*.temp
+*.swp
+nohup.out
+
+# IDE Specific
+.vscode/
+.classpath
+.project
+.settings
